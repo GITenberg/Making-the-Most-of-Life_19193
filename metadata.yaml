@@ -1,0 +1,29 @@
+_repo: Making-the-Most-of-Life_19193
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Miller, J. R. (James Russell)
+    alias: Miller, James Russell
+    birthdate: 1840
+    deathdate: 1912
+    gutenberg_agent_id: '8546'
+    url: http://www.gutenberg.org/2009/agents/8546
+    wikipedia: http://en.wikipedia.org/wiki/J._R._Miller
+description: ''
+gutenberg_issued: '2006-09-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19193'
+  lccn: '42007609'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life'
+- !lcc 'BV'
+title: Making the Most of Life
+url: http://www.gutenberg.org/ebooks/19193
